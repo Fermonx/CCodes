@@ -1,3 +1,5 @@
+/*Quicksort Algorithm */
+
 #include <stdio.h>
 
 
