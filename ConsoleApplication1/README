@@ -1,2 +1,6 @@
 One of the early iterations of my Algorithms 2 course project. This was made in VS2005 as per request of our teacher 
-(it was the version used in all the university labs). It was basically a bank control system made with linked lists.
+(it was the version used in all the university labs). 
+The project consisted on building a national bank registry system using multi linked lists, you could register a bank
+and the accounts. You could also remove or modify them (both bank and the accounts). There are options to perform transactions
+in between accounts from different banks and options to check the amount of money a bank had, an account had or a person had
+by their ID number.
